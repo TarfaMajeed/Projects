@@ -4,7 +4,7 @@ Week 1: ANN and Data Mining
 - Data Mining Project 2: [Conducted a data mining project using weather-related data to discover hidden patterns and relationships. After cleaning and preprocessing the data, applied the Apriori algorithm to generate association rules. Identified strong associations between specific  variables and gained insights into weather patterns.]
 
 Week 2: NLP
-- NLP Project 1: Decision Tree implementation for [specific NLP task]
+- NLP Project 1: [Develped a Natural language processing related project .]
 - NLP Project 2: [Briefly describe the project and its objectives, mentioning laminization]
 
 Week 3: Data Mining
