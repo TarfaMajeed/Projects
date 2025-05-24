@@ -32,7 +32,7 @@ Week 4: NLP and Clustering
     - Plot the DBSCAN clusters to visualize the results
     - Apply K-Prototypes clustering algorithm to handle mixed data types
     - Calculate the silhouette score for K-Prototypes clusters]
-- Steaming Spam Cleaning Project: [Utilized Porter Stemmer algorithm to reduce words to their base form, ensuring that words with the same root are treated as the same word. Applied stemming to normalize text data and reduce dimensionality.]
+- Stemming Project: [Utilized Porter Stemmer algorithm to reduce words to their base form, ensuring that words with the same root are treated as the same word. Applied stemming to normalize text data and reduce dimensionality.]
 - Spam Project: [This project is a spam detection system using NLP techniques. It preprocesses text data by removing punctuation, converting to lowercase, tokenizing, and removing stopwords. The goal is to train a model to classify text messages as spam or ham. The project utilizes libraries like NLTK, Pandas, and NumPy.]
 
 # Additional Resources
