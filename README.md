@@ -15,10 +15,13 @@ Week 2: NLP and Decision tree
     - Determine part-of-speech (POS) tags for words in sentences]
 
 Week 3: Data Mining
-- Search Engine Project: []
-- Cementing Similarity Project: [Briefly describe the project and its objectives]
-- Spacey Project: [Briefly describe the project and its objectives]
-- Spacey Liberty Project: [Briefly describe the project and its objectives]
+- Search Engine Project: [Developed a search engine for skincare products using a dictionary-based approach. Created a dictionary with product names and details, then converted it into a pandas DataFrame. Applied NLP techniques to enhance search functionality, including:
+    - Tokenization: breaking down product names and descriptions into individual words
+    - Stemming: reducing words to their base form
+    - Lemmatization: normalizing words to their dictionary form
+    - Implemented a search function allowing users to find product details by entering a product name]
+- Sementics Similarity Project: [ Utilized NLTK library to determine the similarity between two words. Specifically, explored synonyms and antonyms of the word to understand its semantic relationships.]
+- Spacey Project: [Used spacy for named entity recognization]
 
 Week 4: NLP and Clustering
 - Clustering Project: [Briefly describe the project and its objectives]
