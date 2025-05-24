@@ -10,10 +10,12 @@ Week 2: NLP and Decision tree
     - Other relevant features (e.g., sentiment, tone)]
 - NLP Project 2
 - decision tree : [Utilized scikit-learn (SKL) library to generate models of varying complexity and evaluate their performance. Implemented logistic regression to assess accuracy and other relevant metrics.]
-- lemmanization : []
+- lemmanization : [ Utilized NLTK library to analyze sentences and extract linguistic features. Imported corpus and used tokenizer to:
+    - Identify synonyms and antonyms of words in sentences
+    - Determine part-of-speech (POS) tags for words in sentences]
 
 Week 3: Data Mining
-- Search Engine Project: [Briefly describe the project and its objectives]
+- Search Engine Project: []
 - Cementing Similarity Project: [Briefly describe the project and its objectives]
 - Spacey Project: [Briefly describe the project and its objectives]
 - Spacey Liberty Project: [Briefly describe the project and its objectives]
