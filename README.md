@@ -9,7 +9,8 @@ Week 2: NLP and Decision tree
     - Syntax and semantics analysis
     - Other relevant features (e.g., sentiment, tone)]
 - NLP Project 2
-- decision tree : []
+- decision tree : [Utilized scikit-learn (SKL) library to generate models of varying complexity and evaluate their performance. Implemented logistic regression to assess accuracy and other relevant metrics.]
+- lemmanization : []
 
 Week 3: Data Mining
 - Search Engine Project: [Briefly describe the project and its objectives]
