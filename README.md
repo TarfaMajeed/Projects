@@ -1,6 +1,6 @@
 Week 1: ANN and Data Mining
 - ANN Project: [Developed an Artificial Neural Network (ANN) model using Keras library with NumPy and TensorFlow backend to predict specific outcome.]
-- Data Mining Project 1: Decision Tree implementation for [specific problem/task]
+- Data Mining Project 1: [ Conducted a data mining project using a diabetes dataset to predict specific outcome. Applied data preprocessing, cleaning, and feature engineering techniques to prepare the data for modeling. ]
 - Data Mining Project 2: [Briefly describe the project and its objectives]
 
 Week 2: NLP
