@@ -3,13 +3,13 @@ Week 1: ANN and Data Mining
 - Data Mining Project 1: [ Conducted a data mining project using a diabetes dataset to predict specific outcome. Applied data preprocessing, cleaning, and feature engineering techniques to prepare the data for modeling. ]
 - Data Mining Project 2: [Conducted a data mining project using weather-related data to discover hidden patterns and relationships. After cleaning and preprocessing the data, applied the Apriori algorithm to generate association rules. Identified strong associations between specific  variables and gained insights into weather patterns.]
 
-Week 2: NLP
+Week 2: NLP and Decision tree
 - NLP Project 1: [Conducted an NLP project analyzing past speeches to extract insights and patterns. Utilized analytical libraries to identify and extract linguistic features such as:
     - Part-of-speech (POS) tagging: verbs, prepositions, nouns, etc.
     - Syntax and semantics analysis
-    - Other relevant features (e.g., sentiment, tone)
-]
-- NLP Project 2: [Briefly describe the project and its objectives, mentioning laminization]
+    - Other relevant features (e.g., sentiment, tone)]
+- NLP Project 2
+- decision tree : []
 
 Week 3: Data Mining
 - Search Engine Project: [Briefly describe the project and its objectives]
