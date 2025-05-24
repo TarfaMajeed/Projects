@@ -1,5 +1,5 @@
 Week 1: ANN and Data Mining
-- ANN Project: [Briefly describe the project and its objectives]
+- ANN Project: [Developed an Artificial Neural Network (ANN) model using Keras library with NumPy and TensorFlow backend to predict specific outcome.]
 - Data Mining Project 1: Decision Tree implementation for [specific problem/task]
 - Data Mining Project 2: [Briefly describe the project and its objectives]
 
