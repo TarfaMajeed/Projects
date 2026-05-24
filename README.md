@@ -1,3 +1,6 @@
+                                                                  ## NAVTTC ##
+
+                                                                  
 Week 1: ANN and Data Mining
 - ANN Project: [Developed an Artificial Neural Network (ANN) model using Keras library with NumPy and TensorFlow backend to predict specific outcome.]
 - Data Mining Project 1: [ Conducted a data mining project using a diabetes dataset to predict specific outcome. Applied data preprocessing, cleaning, and feature engineering techniques to prepare the data for modeling. ]
@@ -35,8 +38,27 @@ Week 4: NLP and Clustering
 - Stemming Project: [Utilized Porter Stemmer algorithm to reduce words to their base form, ensuring that words with the same root are treated as the same word. Applied stemming to normalize text data and reduce dimensionality.]
 - Spam Project: [This project is a spam detection system using NLP techniques. It preprocesses text data by removing punctuation, converting to lowercase, tokenizing, and removing stopwords. The goal is to train a model to classify text messages as spam or ham. The project utilizes libraries like NLTK, Pandas, and NumPy.]
 
-# Additional Resources
-- Tarfa Mjeed .zip: [It contains the ongoing full stack deveopment project(frontend) the project is still in development and wil be updated regularly.]
+
+                                                                  ## WebDevelopment ##
+
+  
+- Tarfa Mjeed .zip: [It contains the full stack deveopment project the project.]
+
+
+                                                                   ## Deep Learning  ##
+
+  
+- text_Emotion_classifier.ipynp : [This project focuses on detecting and classifying emotions (Happy, Sad, Anger, Fear, Neutral, Surprise, etc.) from Roman Urdu text using NLP techniques for applications such as sentiment analysis, chatbots, and mental well-being systems.The project compares four models — XLM-RoBERTa, DistilBERT Multilingual, Bi-LSTM, and a RAG-based approach]
+
+
+                                                              ## Digital Image processing ##
+
+
+- NUMBER_PLATE_DETECTION.ipynp : [This project develops an automated Number Plate Detection and Recognition (ANPR) system for identifying vehicle license plates in applications like traffic monitoring, parking management, and security systems.
+The system uses YOLOv8 for accurate license plate detection and EasyOCR for extracting alphanumeric text, providing a scalable and efficient real-time vehicle identification solution.]
+- Object_detection_on_Satellite_images_.ipynp : [his project focuses on detecting and segmenting objects in satellite images.The study evaluates multiple deep learning models including COCO, Mask2Former, YOLO, YOLOv8, and hybrid approaches.]
+
+
 
 # Technologies Used
 - JavaScript, React, Node.js
