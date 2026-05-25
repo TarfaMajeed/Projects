@@ -1,0 +1,130 @@
+/* Basic Logo Styles */
+.logo {
+  height: 60px;
+  cursor: pointer;
+}
+
+/* Dropdown Menu Styling */
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  padding: 0.5rem 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: all 0.2s ease;
+  z-index: 100;
+}
+
+.dropdown-menu.show {
+  display: block;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Overlay for Signin and Region Selection */
+.dropdown-overlay {
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+/* Signin & Region Container Styles */
+.dropdown-container,
+.dropdown-content {
+  background: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  width: 90%;
+  max-width: 400px;
+  text-align: center;
+  position: relative;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+/* Close & Back Arrow Buttons */
+.close-btn,
+.back-arrow {
+  position: absolute;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.close-btn {
+  top: 10px;
+  right: 15px;
+}
+
+.back-arrow {
+  top: 10px;
+  left: 15px;
+}
+
+/* Dropdown List inside Region Selector */
+.dropdown-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0 0;
+}
+
+.dropdown-list li {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #eee;
+  cursor: pointer;
+}
+
+.dropdown-list li:hover {
+  background-color: #f0f0f0;
+}
+
+/* Auth Buttons */
+.auth-btn {
+  background-color: white !important;
+  color: black !important;
+  border: 1px solid black !important;
+  padding: 0.5rem 1rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+/* Email Signin Fields */
+.form-control {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  border: 1px solid #ccc;
+}
+
+/* Utility Buttons (Region & Signin) */
+#discoverButton,
+#Button,
+#CurrentButton {
+  padding: 0.5rem 1rem;
+  margin-left: 0.5rem;
+  transition: all 0.3s ease;
+  border: none;
+  background: #f8f9fa;
+  border-radius: 999px;
+}
+
+#discoverButton:hover,
+#Button:hover,
+#CurrentButton:hover {
+  background-color: #e4e4e4;
+}
