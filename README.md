@@ -42,7 +42,10 @@ Week 4: NLP and Clustering
                                                                   ## WebDevelopment ##
 
   
-- Tarfa Mjeed .zip: [It contains the full stack deveopment project the project.]
+- Tarfa Mjeed .zip: [It contains the full stack deveopment project.This is a TripAdvisor Reservation System where users can fill a booking form with their details, choose payment options, and submit reservations.The React frontend collects user data and sends it to the Node.js backend via API. The backend saves the reservation into MongoDB database.Technologies Used:
+Frontend: React.js + Vite + Axios
+Backend: Node.js + Express.js + Mongoose
+Database: MongoDB]
 
 
                                                                    ## Deep Learning  ##
@@ -63,9 +66,9 @@ The system uses YOLOv8 for accurate license plate detection and EasyOCR for extr
 # Technologies Used
 - JavaScript, React, Node.js
 - Bootstrap 5, CSS, HTML5
-- VS Code, juyter notebook
-- Responsive Design, Web Development , Frontend Development
-- Data Science, Data preprocessing, Machine learning 
+- VS Code, juyter notebook, Google Collab
+- Responsive Design, Web Development , Frontend Development, Backend development
+- Data Science, Data preprocessing, Machine learning, Digital Image Processing, Deep Learning 
 - python
 
 # Contact Information
