@@ -42,7 +42,7 @@ Week 4: NLP and Clustering
                                                                   ## WebDevelopment ##
 
   
-- Tarfa Mjeed .zip: [It contains the full stack deveopment project.This is a TripAdvisor Reservation System where users can fill a booking form with their details, choose payment options, and submit reservations.The React frontend collects user data and sends it to the Node.js backend via API. The backend saves the reservation into MongoDB database.Technologies Used:
+- Tarfa Mjeed : [It contains the full stack deveopment project.This is a TripAdvisor Reservation System where users can fill a booking form with their details, choose payment options, and submit reservations.The React frontend collects user data and sends it to the Node.js backend via API. The backend saves the reservation into MongoDB database.Technologies Used:
 Frontend: React.js + Vite + Axios
 Backend: Node.js + Express.js + Mongoose
 Database: MongoDB]
